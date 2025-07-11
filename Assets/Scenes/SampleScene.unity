@@ -467,9 +467,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1788701953}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a590fe50fd05b7c428148b46441710f0, type: 3}
+  m_Script: {fileID: 11500000, guid: a26fd97491ba9ce4d956422defcc3975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  csvFileName: Menu
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
